@@ -1,2 +1,2 @@
 # Site-de-Casamento
-Site do projeto Front End com A Cellep
+Site do projeto Front End com a Cellep
